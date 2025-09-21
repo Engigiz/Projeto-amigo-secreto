@@ -35,8 +35,8 @@ Um projeto simples em **JavaScript, HTML e CSS** que permite adicionar nomes de 
 ## Estrutura do projeto
 
 amigo-secreto/
-├─ assets/        # Imagens do projeto  
-├─ style.css      # Estilos do projeto  
-├─ app.js         # Código JavaScript  
-└─ index.html     # Estrutura HTML  
+├── assets/ # Imagens do projeto
+├── style.css # Estilos do projeto
+├── app.js # Código JavaScript
+└── index.html # Estrutura HTML
 
